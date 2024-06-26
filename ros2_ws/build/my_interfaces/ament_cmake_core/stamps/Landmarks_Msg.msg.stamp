@@ -1,1 +1,0 @@
-Landmark_Msg[] landmarks

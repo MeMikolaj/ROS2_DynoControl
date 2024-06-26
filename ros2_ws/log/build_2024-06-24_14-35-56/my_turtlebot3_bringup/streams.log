@@ -1,5 +1,0 @@
-[0.004s] Invoking command in '/home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/my_turtlebot3_bringup': CMAKE_PREFIX_PATH=/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/my_turtlebot3_description:/opt/ros/humble:/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/turtlebot3_description:/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/my_turtlebot3_bringup:/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/dyno_control:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_robot_bringup:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_py_pkg:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_robot_interfaces:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_robot_description:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_cpp_pkg /usr/bin/cmake --build /home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/my_turtlebot3_bringup -- -j20 -l20
-[0.017s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
-[0.124s] -- Configuring done
-[0.125s] -- Generating done
-[0.126s] -- Build files have been written to: /home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/my_turtlebot3_bringup

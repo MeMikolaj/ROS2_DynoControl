@@ -1,7 +1,0 @@
-setup.py
-dyno_control/__init__.py
-dyno_control/pipeline.py
-dyno_control.egg-info/PKG-INFO
-dyno_control.egg-info/SOURCES.txt
-dyno_control.egg-info/dependency_links.txt
-dyno_control.egg-info/top_level.txt

@@ -1,1 +1,0 @@
-Invoking command in '/home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/my_turtlebot3_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/mikolaj@acfr.usyd.edu.au/ros2_ws/src/my_turtlebot3_description -DCMAKE_INSTALL_PREFIX=/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/my_turtlebot3_description
