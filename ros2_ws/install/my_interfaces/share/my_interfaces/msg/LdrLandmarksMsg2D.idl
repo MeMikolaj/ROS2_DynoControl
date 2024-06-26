@@ -1,0 +1,13 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from my_interfaces/msg/LdrLandmarksMsg2D.msg
+// generated code does not contain a copyright notice
+
+#include "my_interfaces/msg/LdrLandmarkMsg2D.idl"
+
+module my_interfaces {
+  module msg {
+    struct LdrLandmarksMsg2D {
+      sequence<my_interfaces::msg::LdrLandmarkMsg2D> landmarks2d;
+    };
+  };
+};

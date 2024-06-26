@@ -1,0 +1,9 @@
+[0.006s] Invoking command in '/home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/dyno_control': CMAKE_PREFIX_PATH=/opt/ros/humble:${CMAKE_PREFIX_PATH} /usr/bin/cmake --build /home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/dyno_control -- -j20 -l20
+[0.036s] Built target ament_cmake_python_copy_dyno_control
+[0.162s] running egg_info
+[0.163s] writing dyno_control.egg-info/PKG-INFO
+[0.163s] writing dependency_links to dyno_control.egg-info/dependency_links.txt
+[0.163s] writing top-level names to dyno_control.egg-info/top_level.txt
+[0.164s] reading manifest file 'dyno_control.egg-info/SOURCES.txt'
+[0.165s] writing manifest file 'dyno_control.egg-info/SOURCES.txt'
+[0.179s] Built target ament_cmake_python_build_dyno_control_egg

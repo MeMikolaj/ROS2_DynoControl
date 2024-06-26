@@ -1,0 +1,26 @@
+[0.007s] Invoking command in '/home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/dyno_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/dyno_control -- -j20 -l20
+[0.039s] Built target ament_cmake_python_copy_dyno_control
+[0.162s] running egg_info
+[0.162s] writing dyno_control.egg-info/PKG-INFO
+[0.162s] writing dependency_links to dyno_control.egg-info/dependency_links.txt
+[0.162s] writing top-level names to dyno_control.egg-info/top_level.txt
+[0.163s] reading manifest file 'dyno_control.egg-info/SOURCES.txt'
+[0.164s] writing manifest file 'dyno_control.egg-info/SOURCES.txt'
+[0.179s] Built target ament_cmake_python_build_dyno_control_egg
+[0.186s] Invoked command in '/home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/dyno_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/dyno_control -- -j20 -l20
+[0.205s] Invoking command in '/home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/dyno_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/dyno_control
+[0.210s] -- Install configuration: ""
+[0.210s] -- Up-to-date: /home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/dyno_control/share/dyno_control/launch
+[0.210s] -- Up-to-date: /home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/dyno_control/share/dyno_control/launch/dyno_control.launch.xml
+[0.210s] -- Up-to-date: /home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/dyno_control/share/dyno_control/scripts
+[0.210s] -- Up-to-date: /home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/dyno_control/share/dyno_control/scripts/pipeline_node.py
+[0.210s] -- Up-to-date: /home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/dyno_control/share/dyno_control/worlds
+[0.210s] -- Up-to-date: /home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/dyno_control/share/dyno_control/worlds/square_world.world
+[0.210s] -- Up-to-date: /home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/dyno_control/share/dyno_control/rviz
+[0.210s] [31mCMake Error at cmake_install.cmake:46 (file):
+[0.211s]   file INSTALL cannot find
+[0.211s]   "/home/mikolaj@acfr.usyd.edu.au/ros2_ws/src/dyno_control/turtlebot3_description":
+[0.211s]   No such file or directory.
+[0.211s] 
+[0.211s] [0m
+[0.211s] Invoked command in '/home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/dyno_control' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/dyno_control

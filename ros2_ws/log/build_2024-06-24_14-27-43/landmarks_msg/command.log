@@ -1,0 +1,2 @@
+Invoking command in '/home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/landmarks_msg': /usr/bin/cmake /home/mikolaj@acfr.usyd.edu.au/ros2_ws/src/landmarks_msg -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/landmarks_msg
+Invoked command in '/home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/landmarks_msg' returned '1': /usr/bin/cmake /home/mikolaj@acfr.usyd.edu.au/ros2_ws/src/landmarks_msg -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/landmarks_msg

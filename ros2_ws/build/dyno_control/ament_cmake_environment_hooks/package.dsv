@@ -1,0 +1,4 @@
+source;share/dyno_control/local_setup.bash
+source;share/dyno_control/local_setup.dsv
+source;share/dyno_control/local_setup.sh
+source;share/dyno_control/local_setup.zsh

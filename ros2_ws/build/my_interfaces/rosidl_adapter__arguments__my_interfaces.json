@@ -1,0 +1,9 @@
+{
+  "package_name": "my_interfaces",
+  "non_idl_tuples": [
+    "/home/mikolaj@acfr.usyd.edu.au/ros2_ws/src/my_interfaces:msg/LdrLandmarkMsg2D.msg",
+    "/home/mikolaj@acfr.usyd.edu.au/ros2_ws/src/my_interfaces:msg/LdrLandmarkMsg3D.msg",
+    "/home/mikolaj@acfr.usyd.edu.au/ros2_ws/src/my_interfaces:msg/LdrLandmarksMsg2D.msg",
+    "/home/mikolaj@acfr.usyd.edu.au/ros2_ws/src/my_interfaces:msg/LdrLandmarksMsg3D.msg"
+  ]
+}

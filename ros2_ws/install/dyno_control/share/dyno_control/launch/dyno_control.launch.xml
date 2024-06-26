@@ -1,0 +1,9 @@
+<launch>
+    
+    <node pkg="dyno_control" exec="pipeline_node.py" name="main_pipeline" />
+
+    <include file="$(find-pkg-share gazebo_ros)/launch/gazebo.launch.py">
+        <arg name="world" value="$(find-pkg-share my_turtlebot3_bringup)/worlds/square_world.world" />
+    </include>
+
+</launch>

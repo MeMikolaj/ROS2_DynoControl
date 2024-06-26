@@ -1,0 +1,22 @@
+[0.005s] Invoking command in '/home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/my_turtlebot3_bringup': CMAKE_PREFIX_PATH=/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/my_turtlebot3_description:/opt/ros/humble:/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/turtlebot3_description:/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/my_turtlebot3_bringup:/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/dyno_control:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_robot_bringup:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_py_pkg:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_robot_interfaces:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_robot_description:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_cpp_pkg /usr/bin/cmake --build /home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/my_turtlebot3_bringup -- -j20 -l20
+[0.024s] [31mCMake Error at CMakeLists.txt:9 (find_package):
+[0.024s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[0.024s]   asked CMake to find a package configuration file provided by "catkin", but
+[0.024s]   CMake did not find one.
+[0.024s] 
+[0.024s]   Could not find a package configuration file provided by "catkin" with any
+[0.024s]   of the following names:
+[0.024s] 
+[0.024s]     catkinConfig.cmake
+[0.024s]     catkin-config.cmake
+[0.024s] 
+[0.024s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[0.024s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[0.024s]   provides a separate development package or SDK, be sure it has been
+[0.024s]   installed.
+[0.024s] 
+[0.024s] [0m
+[0.024s] -- Configuring incomplete, errors occurred!
+[0.024s] See also "/home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/my_turtlebot3_bringup/CMakeFiles/CMakeOutput.log".
+[0.025s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.026s] Invoked command in '/home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/my_turtlebot3_bringup' returned '2': CMAKE_PREFIX_PATH=/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/my_turtlebot3_description:/opt/ros/humble:/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/turtlebot3_description:/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/my_turtlebot3_bringup:/home/mikolaj@acfr.usyd.edu.au/ros2_ws/install/dyno_control:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_robot_bringup:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_py_pkg:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_robot_interfaces:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_robot_description:/home/mikolaj@acfr.usyd.edu.au/tut_ros2_ws/install/my_cpp_pkg /usr/bin/cmake --build /home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/my_turtlebot3_bringup -- -j20 -l20

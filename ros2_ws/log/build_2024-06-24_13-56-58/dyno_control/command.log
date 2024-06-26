@@ -1,0 +1,2 @@
+Invoking command in '/home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/dyno_control': /usr/bin/cmake --build /home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/dyno_control -- -j20 -l20
+Invoked command in '/home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/dyno_control' returned '2': /usr/bin/cmake --build /home/mikolaj@acfr.usyd.edu.au/ros2_ws/build/dyno_control -- -j20 -l20
